@@ -6,7 +6,7 @@ My name is Tejal Kotkar, data analyst with a bachelor’s degree in Computer Sci
 ---
 - Email: kotkar.tejal@gmail.com
 - Phone: +1(407)-810-1427
-- LinkedIn: <linkedin.com/in/tejal-kotkar>
+- LinkedIn: [linkedin.com/in/tejal-kotkar](linkedin.com/in/tejal-kotkar)
 
 # Education:
 ---
