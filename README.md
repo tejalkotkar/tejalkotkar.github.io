@@ -10,8 +10,8 @@ My name is Tejal Kotkar, data analyst with a bachelor’s degree in Computer Sci
 
 # Education:
 ---
-- Bachelor of Science, Computer Science | University of Pune, India
-- Data Visualization and Analytics Certificate |  University of MN, St. Paul, MN
+- Bachelor of Science, Computer Science, University of Pune, India
+- Data Visualization and Analytics Certificate, University of MN, St. Paul, MN
 
 # Technical Skills:
 ---
