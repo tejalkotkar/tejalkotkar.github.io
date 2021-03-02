@@ -39,7 +39,7 @@ Data Visualization and Analytics Certificate |  University of MN, St. Paul, MN
     - Role: Contributor
     - Tools: Python, Jupyter Notebook, Matplotlib, API, Pandas
 
-# Recent Employment History
+# EXPERIENCE:
 ---
 ### TAP|QA, Minneapolis, MN	| April 2019 – September 2020
 Industry leader in software quality testing.
