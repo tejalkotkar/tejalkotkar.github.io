@@ -24,17 +24,23 @@ My name is Tejal Kotkar, data analyst with a bachelor’s degree in Computer Sci
 
 # PROJECTS
 ---
-1. [Amazon Best Selling Books](https://github.com/Savita0807/Amazon-bestselling-books)
+1. [Aviation Accident Analysis](https://github.com/tejalkotkar/Aviation_Accident_Analysis) 
+   Built interactive dashboard to analyze and visualize civil aviation accidents happened in USA. Used Machine learning to predict Event Type, Severity & Aircraft Damage.
+   [Project Link](https://aviation-accident-analysis.herokuapp.com/)
+   - Role : Contributor
+   - Tools: HTML, CSS, JavaScript combined with D3, Plotly, Python Flask API, Jupyter Notebook, Pandas, Machine Learning
+
+2. [Amazon Best Selling Books](https://github.com/Savita0807/Amazon-bestselling-books)
     Built interactive dashboard to analyze and visualize Amazon's Top bestselling books from 2009 to 2019. 
     - Role : Contributor
     - Tools: HTML, CSS, JavaScript combined with D3, Python Flask API, Jupyter Notebook, Pandas
 
-2. [Mission SpaceX](https://github.com/tejalkotkar/Mission_SpaceX)
+3. [Mission SpaceX](https://github.com/tejalkotkar/Mission_SpaceX)
     This is an ETL project and purpose of this was to create PostgreSQL database CRUD operations from data sets from the Space-X data (2006-2020) from Kaggle & space-x API.
     - Role: Contributor
     - Tools: Python, Jupyter Notebook, PostgreSQL, SqlAlchemy, Pandas
 
-3. [World Happiness Report](https://github.com/tejalkotkar/World-Happiness-Report)
+4. [World Happiness Report](https://github.com/tejalkotkar/World-Happiness-Report)
     Analyze and visualize the survey done on Happiness Score data for the past three years and to understand how the key factors are related to the Happiness Score of 156 countries.
     - Role: Contributor
     - Tools: Python, Jupyter Notebook, Matplotlib, API, Pandas
