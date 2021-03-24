@@ -26,6 +26,7 @@ My name is Tejal Kotkar, data analyst with a bachelor’s degree in Computer Sci
 ---
 1. [Aviation Accident Analysis](https://github.com/tejalkotkar/Aviation_Accident_Analysis) 
    Built interactive dashboard to analyze and visualize civil aviation accidents happened in USA. Used Machine learning to predict Event Type, Severity & Aircraft Damage.
+   
    [Project Link](https://aviation-accident-analysis.herokuapp.com/)
    - Role : Contributor
    - Tools: HTML, CSS, JavaScript combined with D3, Plotly, Python Flask API, Jupyter Notebook, Pandas, Machine Learning
